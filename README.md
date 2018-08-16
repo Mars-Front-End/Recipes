@@ -4,6 +4,12 @@
 
 js模块化：[黄玄-JavaScript 模块化七日谈](https://github.com/Huxpro/js-module-7day)
 
+### 框架篇
+
+#### React
+
++ [React专题-马蹄疾](https://github.com/veedrin/horseshoe)
+
 ### 面试准备
 
 + [InterviewMap](https://github.com/InterviewMap/InterviewMap)
