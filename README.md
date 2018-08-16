@@ -68,7 +68,16 @@ js模块化：[黄玄-JavaScript 模块化七日谈](https://github.com/Huxpro/j
 + [分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者](https://github.com/foru17/front-end-collect)
 + [Good-Text-Share:有点老了，但比较全面](https://github.com/windiest/Good-Text-Share)
 
-### 好玩的
+### 推荐仓库
+
+#### 实用工具
+
++ 显示出距当前时间多久的js插件：[*** time ago](https://github.com/hustcc/timeago.js)
++ 在项目中不要成堆的console.log：[Hackable console logger](https://github.com/klauscfhq/signale)；[log4js-node](https://github.com/log4js-node/log4js-node)
++ 类似与moment的时间插件-仅有2kb：[dayjs](https://github.com/iamkun/dayjs)
+
+#### 好玩的
 
 + [storybooks/storybook-ui交互](https://github.com/storybooks/storybook)
 + [pshihn/rough-手绘库](https://github.com/pshihn/rough)
++ [particles.js-创造页面背景的粒子效果](https://github.com/VincentGarreau/particles.js)
