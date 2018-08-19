@@ -68,6 +68,18 @@ js模块化：[黄玄-JavaScript 模块化七日谈](https://github.com/Huxpro/j
 + 腾讯AlloyTeam
 + 奇舞周刊
 
+#### 程序员们的总结
+
++ [寄语应届生：走出校园的几个人生转变](http://jiongks.name/blog/for-after-college/)
++ [一个程序员的成长之路 - 张云龙【语雀精选】](https://mp.weixin.qq.com/s?__biz=MzU1NTUwMzkwOA==&mid=2247483860&idx=1&sn=ce03a446c24730aa7aa032c4767b972f)
++ [程序员如何在技术浪潮的更迭中保持较高的成长速度 ？](https://halfrost.com/halfrost_2017/)
+
+这里是从一个仰慕的大神，陈天，他的微信公众号：程序人生(programmer_life)，
+
++ [在提高代码能力这事上，没有银弹](https://mp.weixin.qq.com/s/n5wi5nzRCCkRD4NbFByfiA)
++ [如何提高代码质量？](https://mp.weixin.qq.com/s/nyqbRLFEofONb0mevyoYow)
+
+
 
 ### 资源大全类
 
