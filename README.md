@@ -33,6 +33,7 @@ js模块化：[黄玄-JavaScript 模块化七日谈](https://github.com/Huxpro/j
 + [深入浅出 Webpack](http://webpack.wuhaolin.cn/)
 + [TypeScript 入门教程](https://ts.xcatliu.com/)
 + [编程之法：面试和算法心得](https://wizardforcel.gitbooks.io/the-art-of-programming-by-july/)
++ [css-in-depth](https://livebook.manning.com/#!/book/css-in-depth/about-this-book/1)
 
 ### 博客篇
 
