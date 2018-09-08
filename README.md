@@ -62,6 +62,9 @@ js模块化：[黄玄-JavaScript 模块化七日谈](https://github.com/Huxpro/j
 
 + [饿了么前端](https://zhuanlan.zhihu.com/ElemeFE)
 
+阿里妈妈的segmentFault专栏：
++ [前端技术周刊 2018-09-03：parser](https://segmentfault.com/a/1190000016247549?_ea=4322932)
+
 #### 公众号
 
 + 前端早读课
